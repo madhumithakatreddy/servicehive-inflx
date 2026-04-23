@@ -1,0 +1,31 @@
+{
+  "company": "AutoStream",
+  "description": "AutoStream provides automated video editing tools for content creators.",
+  "plans": {
+    "basic": {
+      "name": "Basic Plan",
+      "price": "$29/month",
+      "features": [
+        "10 videos per month",
+        "720p resolution",
+        "Basic editing tools"
+      ]
+    },
+    "pro": {
+      "name": "Pro Plan",
+      "price": "$79/month",
+      "features": [
+        "Unlimited videos",
+        "4K resolution",
+        "AI captions",
+        "Priority support",
+        "24/7 support"
+      ]
+    }
+  },
+  "policies": {
+    "refund": "No refunds after 7 days of purchase.",
+    "support": "24/7 support is available only on the Pro plan.",
+    "trial": "You can try AutoStream free for 7 days before committing to a plan."
+  }
+}

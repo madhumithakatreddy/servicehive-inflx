@@ -61,7 +61,7 @@ Reply with ONLY the intent word. Nothing else.
     if intent not in ["greeting", "inquiry", "high_intent", "ending"]:
         intent = "inquiry"
 
-    #print(f"\n[Intent detected: {intent}]")
+    print(f"\n[Intent detected: {intent}]")
     return {"intent": intent}
 
 
